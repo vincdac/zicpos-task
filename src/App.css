@@ -1,0 +1,23 @@
+.loc {
+  margin-left: 315px;
+}
+
+.border {
+  border: 4px solid skyblue;
+}
+
+.borderr {
+  border-right: 2px solid skyblue;
+}
+
+.borderl {
+  border-left: 2px solid skyblue;
+}
+
+.btns {
+  margin-left: 100px;
+}
+
+.card {
+  width: 18rem;
+}
